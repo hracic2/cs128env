@@ -1,0 +1,13 @@
+vagrant
+unminimize
+git config --global user.name "Hunter Racic"
+git config --global user.email "hracic2@illinois.edu"
+cd~/src
+cd ~/src
+clang++ -std=c++20 -g -O0 -Wall -Wextra -Werror -pedantic hello_world.cc -o hello_world
+./hello_world
+logout
+cd ~/src
+cd src
+clang++ -std=c++20 -g -O0 -Wall -Wextra -Werror -pedantic  hello_world.cc -o HelloWorld
+./HelloWorld
